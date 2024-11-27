@@ -22,7 +22,7 @@ Technologies Used
 
 Frontend
 React.js: For building the user interface.
-CSS/Tailwind CSS: For styling.
+CSS: For styling.
 Backend
 Node.js: Server-side runtime.
 Express.js: Backend framework for handling APIs.
